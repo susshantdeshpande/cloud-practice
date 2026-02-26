@@ -18,7 +18,6 @@ This project demonstrates how I deployed a static HTML website on AWS EC2.
 
 ## 🖥️ Project Output Screenshot
 
-(Screenshot will be added here)
 
 ---
 
