@@ -18,7 +18,8 @@ This project demonstrates how I deployed a static HTML website on AWS EC2.
 
 ## 🖥️ Project Output Screenshot
 
-![Project Output](output.png)
+![Project Output](output.png.jpeg)
+
 ---
 
 👨‍💻 Created by Sushant Deshpande
